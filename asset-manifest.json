@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amihi/static/css/main.e7a26669.css",
+    "main.js": "/amihi/static/js/main.cca458ed.js",
+    "index.html": "/amihi/index.html",
+    "main.e7a26669.css.map": "/amihi/static/css/main.e7a26669.css.map",
+    "main.cca458ed.js.map": "/amihi/static/js/main.cca458ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a26669.css",
+    "static/js/main.cca458ed.js"
+  ]
+}
